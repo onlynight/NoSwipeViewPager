@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NoSwipeViewPager</string>
+    <string name="page">page</string>
+</resources>
